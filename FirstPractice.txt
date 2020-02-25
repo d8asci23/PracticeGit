@@ -1,6 +1,10 @@
 Before First Commit, initiate git in Terminal
 $ git init
 
-For First Commit
+For Commit
 $ git config —global user.email “jiwan.hwang@gmail.com”
 $ git config —global user.name “gy23”
+
+For First/Second Commit
+$ git add FirstPractice.txt
+$ git commit -m "For Second Commit"
