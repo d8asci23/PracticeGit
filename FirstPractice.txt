@@ -1,0 +1,6 @@
+Before First Commit, initiate git in Terminal
+$ git init
+
+For First Commit
+$ git config —global user.email “jiwan.hwang@gmail.com”
+$ git config —global user.name “gy23”
