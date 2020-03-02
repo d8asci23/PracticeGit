@@ -5,7 +5,15 @@ For Commit
 $ git config —global user.email “jiwan.hwang@gmail.com”
 $ git config —global user.name “gy23”
 
-For First/Second Commit
+For Commit
 $ git add FirstPractice.txt
 For explanation
 $ git commit -m "For Second Commit"
+
+For going back
+$ git log
+Copy first 7 letters after commit 123abcd
+$ git checkout 123abcd
+
+For going to very recent commit
+$ git checkout - 
