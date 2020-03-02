@@ -7,4 +7,5 @@ $ git config —global user.name “gy23”
 
 For First/Second Commit
 $ git add FirstPractice.txt
+For explanation
 $ git commit -m "For Second Commit"
