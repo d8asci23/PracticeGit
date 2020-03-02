@@ -24,3 +24,6 @@ $ git push origin master
 
 To remove origin (if there is an error)
 $ git remote rm origin
+
+To pull 
+$ git pull origin master
