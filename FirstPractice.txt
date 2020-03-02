@@ -17,3 +17,10 @@ $ git checkout 123abcd
 
 For going to very recent commit
 $ git checkout - 
+
+For add a fie to Repo
+$ git remote add origin https://Github.com/gy23/GitPractice.git
+$ git push origin master
+
+To remove origin (if there is an error)
+$ git remote rm origin
